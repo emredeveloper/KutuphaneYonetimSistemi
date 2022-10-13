@@ -1,0 +1,12 @@
+C:\Users\Cihat Emre Karataş\Desktop\Kütüphane Yönetim Sistemi\KutuphaneYonetimSistemi.exe
+C:\Users\Cihat Emre Karataş\Desktop\Kütüphane Yönetim Sistemi\KutuphaneYonetimSistemi.dll
+C:\Users\Cihat Emre Karataş\Desktop\Kütüphane Yönetim Sistemi\KutuphaneYonetimSistemi.deps.json
+C:\Users\Cihat Emre Karataş\Desktop\Kütüphane Yönetim Sistemi\KutuphaneYonetimSistemi.runtimeconfig.json
+C:\Users\Cihat Emre Karataş\Desktop\Kütüphane Yönetim Sistemi\KutuphaneYonetimSistemi.pdb
+C:\Users\Cihat Emre Karataş\Desktop\Kütüphane Yönetim Sistemi\FontAwesome.Sharp.dll
+C:\Users\Cihat Emre Karataş\Desktop\Kütüphane Yönetim Sistemi\System.Data.SqlClient.dll
+C:\Users\Cihat Emre Karataş\Desktop\Kütüphane Yönetim Sistemi\runtimes\win-arm64\native\sni.dll
+C:\Users\Cihat Emre Karataş\Desktop\Kütüphane Yönetim Sistemi\runtimes\win-x64\native\sni.dll
+C:\Users\Cihat Emre Karataş\Desktop\Kütüphane Yönetim Sistemi\runtimes\win-x86\native\sni.dll
+C:\Users\Cihat Emre Karataş\Desktop\Kütüphane Yönetim Sistemi\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\Cihat Emre Karataş\Desktop\Kütüphane Yönetim Sistemi\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll

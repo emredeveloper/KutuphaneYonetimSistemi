@@ -1,0 +1,11 @@
+C:\Users\Cihat Emre Karataş\Desktop\C# 2022\Proje Yayınlama\KutuphaneYonetimSistemi.exe
+C:\Users\Cihat Emre Karataş\Desktop\C# 2022\Proje Yayınlama\KutuphaneYonetimSistemi.dll
+C:\Users\Cihat Emre Karataş\Desktop\C# 2022\Proje Yayınlama\KutuphaneYonetimSistemi.deps.json
+C:\Users\Cihat Emre Karataş\Desktop\C# 2022\Proje Yayınlama\KutuphaneYonetimSistemi.runtimeconfig.json
+C:\Users\Cihat Emre Karataş\Desktop\C# 2022\Proje Yayınlama\KutuphaneYonetimSistemi.pdb
+C:\Users\Cihat Emre Karataş\Desktop\C# 2022\Proje Yayınlama\System.Data.SqlClient.dll
+C:\Users\Cihat Emre Karataş\Desktop\C# 2022\Proje Yayınlama\runtimes\win-arm64\native\sni.dll
+C:\Users\Cihat Emre Karataş\Desktop\C# 2022\Proje Yayınlama\runtimes\win-x64\native\sni.dll
+C:\Users\Cihat Emre Karataş\Desktop\C# 2022\Proje Yayınlama\runtimes\win-x86\native\sni.dll
+C:\Users\Cihat Emre Karataş\Desktop\C# 2022\Proje Yayınlama\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\Cihat Emre Karataş\Desktop\C# 2022\Proje Yayınlama\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll

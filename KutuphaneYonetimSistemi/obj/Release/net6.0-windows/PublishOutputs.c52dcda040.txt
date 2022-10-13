@@ -1,0 +1,12 @@
+C:\Users\Cihat Emre Karataş\Desktop\KutuphaneYonetimSistemi.exe
+C:\Users\Cihat Emre Karataş\Desktop\KutuphaneYonetimSistemi.dll
+C:\Users\Cihat Emre Karataş\Desktop\KutuphaneYonetimSistemi.deps.json
+C:\Users\Cihat Emre Karataş\Desktop\KutuphaneYonetimSistemi.runtimeconfig.json
+C:\Users\Cihat Emre Karataş\Desktop\KutuphaneYonetimSistemi.pdb
+C:\Users\Cihat Emre Karataş\Desktop\FontAwesome.Sharp.dll
+C:\Users\Cihat Emre Karataş\Desktop\System.Data.SqlClient.dll
+C:\Users\Cihat Emre Karataş\Desktop\runtimes\win-arm64\native\sni.dll
+C:\Users\Cihat Emre Karataş\Desktop\runtimes\win-x64\native\sni.dll
+C:\Users\Cihat Emre Karataş\Desktop\runtimes\win-x86\native\sni.dll
+C:\Users\Cihat Emre Karataş\Desktop\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\Cihat Emre Karataş\Desktop\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll

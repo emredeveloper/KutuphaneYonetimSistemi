@@ -1,0 +1,18 @@
+{
+  "version": 2,
+  "dgSpecHash": "mEPm6CwOystN/ub8ETkFQOojSvY1UoSsX/Jva3ugT67o8sNp8TmOkQH7w66elPDCmCj8Mb3IZNU6N9EkUZB0TQ==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Cihat Emre Karataş\\Desktop\\C# 2022\\KutuphaneYonetimSistemi\\KutuphaneYonetimSistemi\\KutuphaneYonetimSistemi.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Cihat Emre Karataş\\.nuget\\packages\\microsoft.netcore.platforms\\3.1.0\\microsoft.netcore.platforms.3.1.0.nupkg.sha512",
+    "C:\\Users\\Cihat Emre Karataş\\.nuget\\packages\\microsoft.win32.registry\\4.7.0\\microsoft.win32.registry.4.7.0.nupkg.sha512",
+    "C:\\Users\\Cihat Emre Karataş\\.nuget\\packages\\runtime.native.system.data.sqlclient.sni\\4.7.0\\runtime.native.system.data.sqlclient.sni.4.7.0.nupkg.sha512",
+    "C:\\Users\\Cihat Emre Karataş\\.nuget\\packages\\runtime.win-arm64.runtime.native.system.data.sqlclient.sni\\4.4.0\\runtime.win-arm64.runtime.native.system.data.sqlclient.sni.4.4.0.nupkg.sha512",
+    "C:\\Users\\Cihat Emre Karataş\\.nuget\\packages\\runtime.win-x64.runtime.native.system.data.sqlclient.sni\\4.4.0\\runtime.win-x64.runtime.native.system.data.sqlclient.sni.4.4.0.nupkg.sha512",
+    "C:\\Users\\Cihat Emre Karataş\\.nuget\\packages\\runtime.win-x86.runtime.native.system.data.sqlclient.sni\\4.4.0\\runtime.win-x86.runtime.native.system.data.sqlclient.sni.4.4.0.nupkg.sha512",
+    "C:\\Users\\Cihat Emre Karataş\\.nuget\\packages\\system.data.sqlclient\\4.8.3\\system.data.sqlclient.4.8.3.nupkg.sha512",
+    "C:\\Users\\Cihat Emre Karataş\\.nuget\\packages\\system.security.accesscontrol\\4.7.0\\system.security.accesscontrol.4.7.0.nupkg.sha512",
+    "C:\\Users\\Cihat Emre Karataş\\.nuget\\packages\\system.security.principal.windows\\4.7.0\\system.security.principal.windows.4.7.0.nupkg.sha512"
+  ],
+  "logs": []
+}
